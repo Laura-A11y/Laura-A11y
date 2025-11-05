@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png) Join the CoderLegion Community](https://coderlegion.com/user/Laura_a11y)
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)  Join the CoderLegion Community](https://coderlegion.com/user/Laura_a11y)
 
 <!--
 **Laura-A11y/Laura-A11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
