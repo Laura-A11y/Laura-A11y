@@ -2,6 +2,9 @@
 
 [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)  Join the CoderLegion Community](https://coderlegion.com/user/Laura_a11y)
 
+🔭 I’m currently working on Hope Tech's user setup guide for assistive tech onboarding.
+🌱 I’m currently learning for the DHS Section 508 Trusted Tester Certification. Study Group on GDG Vienna loading...
+💬 Ask me about inclusive design!
 <!--
 **Laura-A11y/Laura-A11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
