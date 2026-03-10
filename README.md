@@ -1,11 +1,14 @@
 ## Hi there 👋
 
 🔭 I’m currently working on Hope Tech's user setup guide for assistive tech onboarding. <br>
-🌱 I’m currently learning for the DHS Section 508 Trusted Tester Certification. Study Group on GDG Vienna loading... <br>
+🌱 I’m currently studying for the [DHS Section 508 Trusted Tester Certification](https://www.dhs.gov/trusted-tester) and hosting a Study Group for it on [GDG Vienna](https://gdg.community.dev/gdg-vienna/).<br>
 ⚡ Exploring cybersecurity basics.
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)
+Join the CoderLegion Community](https://coderlegion.com/user/Laura_a11y)
+
 💬 Ask me about inclusive design! <br>
 
-[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)  Join the CoderLegion Community](https://coderlegion.com/user/Laura_a11y)
 <!--
 **Laura-A11y/Laura-A11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
