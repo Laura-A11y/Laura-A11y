@@ -4,11 +4,6 @@
 I’m currently studying for the [DHS Section 508 Trusted Tester Certification](https://www.dhs.gov/trusted-tester) and hosting a Study Group for it on [GDG Vienna](https://gdg.community.dev/gdg-vienna/).<br>
 [Study Group repo](https://github.com/Laura-A11y/GDG-Study-Group)
 
-<link rel="stylesheet" href="https://alexgama11.github.io/GitGlue/css/gitstyle.css">
-
-<script src="https://alexgama11.github.io/GitGlue/GitHubPinner.js"></script>
-<div data="https://github.com/Laura-A11y/GDG-Study-Group" class="github-pinner" style="visibility: hidden;"></div>
-
 ## [A11y News](https://a11ynews.substack.com/)
 My newsletter for all things accessibility & inclusion in tech. 
 
