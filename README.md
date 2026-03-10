@@ -2,6 +2,7 @@
 
 ## DHS Trusted Tester Study Group
 I’m currently studying for the [DHS Section 508 Trusted Tester Certification](https://www.dhs.gov/trusted-tester) and hosting a Study Group for it on [GDG Vienna](https://gdg.community.dev/gdg-vienna/).<br>
+[Study Group repo](https://github.com/Laura-A11y/GDG-Study-Group)
 
 ## [A11y News](https://a11ynews.substack.com/)
 My newsletter for all things accessibility & inclusion in tech. 
