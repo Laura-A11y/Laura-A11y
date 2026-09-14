@@ -4,18 +4,18 @@
 I’m currently studying for the [DHS Section 508 Trusted Tester Certification](https://www.dhs.gov/trusted-tester) and hosting a Study Group for it on [GDG Vienna](https://gdg.community.dev/gdg-vienna/).<br>
 [Study Group repo](https://github.com/Laura-A11y/GDG-Study-Group)
 
+**Update:** Passed the exam!
+
 ## [A11y News](https://a11ynews.substack.com/)
-My newsletter for all things accessibility & inclusion in tech. 
+My newsletter for all things accessibility & inclusion in tech.
+A11y News curates accessibility events, tools, and resources to help professionals build inclusive experiences. From free events and new technologies to practical takeaways in UX, front‑end development, and the occasional fun stuff.
 
 ## Women Techmakers Vienna
-We are reviving [WTM Vienna](https://womentechmakers.at/)! If you are a woman, FLINTA, or ally in Vienna, come join our next meetup!
+We are reviving [WTM Vienna](https://womentechmakers.at/)! If you are a woman, FLINTA, or ally in Vienna, come join our next meetup.
 
-## Hope Tech 
-I’m currently working on Hope Tech's user setup guide for assistive tech onboarding.
+## Day Job
+My main job is researching and developing assistive technology with Hope Tech Plus.
 
-
-[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)
-Join the CoderLegion Community](https://coderlegion.com/user/Laura_a11y)
 
 
 
